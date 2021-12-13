@@ -1,0 +1,38 @@
+@media (min-width: 0px) and (max-width: 768px){
+    .head-line-larg::after{
+        width: 0% !important;
+    height: 0px !important;
+    }
+}
+@media (min-width: 0px) and (max-width: 768px){
+    .head-line-larg::before{
+        width: 0% !important;
+    height: 0px !important;
+    }
+}
+@media (min-width: 0px) and (max-width: 768px){
+    .head-line-small::after{
+        width: 0% !important;
+    height: 0px !important;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 768px){
+    .head-line-small::before{
+        width: 0% !important;
+    height: 0px !important;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 768px){
+    .edit-position{
+        position: static !important;
+        width: 100% !important;
+        margin-bottom: 3%;
+        
+    }
+}
+
+
+
+

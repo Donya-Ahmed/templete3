@@ -1,0 +1,43 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}/*section 1*/
+.mar-top{
+    margin-top: 15%;
+}
+.top{
+    top:80%
+}
+
+.opacity-nav{
+    opacity: 75%;
+}
+/*contact section*/
+.icon-blue{
+    color: #0C65ED;
+    font-size: 35px;
+    margin-bottom: 2%;
+  
+} 
+/*form*/
+.boder-bot{
+    border-bottom:1px solid  black !important;
+}
+.pos-icon{
+    top: 14%;
+}
+/* ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    /* margin-left: 5%;
+  } */ 
+  input::placeholder{
+      padding-left: 15%;
+  }
+  input{
+      padding-left: 15%;
+  }
+
+  .send-hover:hover{
+      background-color: black  !important;
+      color: white !important;
+      border: black !important;
+  }
